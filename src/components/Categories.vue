@@ -1,0 +1,3 @@
+<template>
+  fuck
+</template>
